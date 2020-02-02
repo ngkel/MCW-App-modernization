@@ -83,30 +83,6 @@ Present solution to your customer:
 
 - Review preferred solution
 
-## During the whiteboard design session: Tips for an effective whiteboard design session
-
-**Refer to the Trainer guide** to stay on track and observe the timings.
-
-**Do not expect to memorize every detail** of the whiteboard design session.
-
-When participants are doing activities, you can **look ahead to refresh your memory**.
-
-- **Adjust activity and whiteboard design session pace** as needed to allow time for presenting, feedback, and sharing.
-
-- **Add examples, points, and stories** from your own experience. Think about stories you can share that help you make your points clearly and effectively.
-
-- **Consider creating a "parking lot"** to record issues or questions raised that are outside the scope of the whiteboard design session or can be answered later. Decide how you will address these issues, so you can acknowledge them without being derailed by them.
-
-***Have fun**! Encourage participants to have fun and share!*
-
-**Involve your participants.** Talk and share your knowledge but always involve your participants, even while you are the one speaking.
-
-**Ask questions** and get them to share to fully involve your group in the learning process.
-
-**Ask first**, whenever possible. Before launching into a topic, learn your audience's opinions about it and experiences with it. Asking first enables you to assess their level of knowledge and experience, and leaves them more open to what you are presenting.
-
-**Wait for responses**. If you ask a question such as, "What's your experience with (fill in the blank)?" then wait. Do not be afraid of a little silence. If you leap into the silence, your participants will feel you are not serious about involving them and will become passive. Give participants a chance to think, and if no one answers, patiently ask again. You will usually get a response.
-
 # App modernization whiteboard design session student guide
 
 ## Abstract and learning objectives
