@@ -83,20 +83,6 @@ Present solution to your customer:
 
 - Review preferred solution
 
-## Before the whiteboard design session: How to prepare
-
-Before conducting your first whiteboard design session:
-
-- Read the Student guide (including the case study) and Trainer guide.
-
-- Become familiar with all key points and activities.
-
-- Plan the point you want to stress, which questions you want to drive, transitions, and be ready to answer questions.
-
-- Prior to the whiteboard design session, discuss the case study to pick up more ideas.
-
-- Make notes for later.
-
 ## During the whiteboard design session: Tips for an effective whiteboard design session
 
 **Refer to the Trainer guide** to stay on track and observe the timings.
