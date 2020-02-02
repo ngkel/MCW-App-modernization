@@ -37,34 +37,6 @@ Whiteboard design session trainer guide
 
 <!-- /TOC -->
 
-# Trainer information
-
-Thank you for taking time to support the whiteboard design sessions as a trainer!
-
-## Role of the trainer
-
-An amazing trainer:
-
-- Creates a safe environment in which learning can take place.
-
-- Stimulates the participant's thinking.
-
-- Involves the participant in the learning process.
-
-- Manages the learning process (on time, on topic, and adjusting to benefit participants).
-
-- Ensures individual participant accountability.
-
-- Ties it all together for the participant.
-
-- Provides insight and experience to the learning process.
-
-- Effectively leads the whiteboard design session discussion.
-
-- Monitors quality and appropriateness of participant deliverables.
-
-- Effectively leads the feedback process.
-
 ## Whiteboard design session flow
 
 Each whiteboard design session uses the following flow:
